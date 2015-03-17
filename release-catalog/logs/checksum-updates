@@ -1,0 +1,41 @@
+;; ============================================================
+;; Appended 1426595958 : Tuesday, March 17th, 2015 8:39:18am
+#hash(("git://github.com/plt/racket/?path=pkgs/racket-index#release"
+       .
+       ("e6ffbf2501f33509eefb59b3b1ccaaf290f5b8a3"
+        "d9dea284a830c2aa024a2cb6e3ca0c6f8fa03211"))
+      ("git://github.com/plt/racket/?path=pkgs/at-exp-lib#release"
+       .
+       ("e6ffbf2501f33509eefb59b3b1ccaaf290f5b8a3"
+        "d9dea284a830c2aa024a2cb6e3ca0c6f8fa03211"))
+      ("git://github.com/plt/racket/?path=pkgs/racket-test#release"
+       .
+       ("e6ffbf2501f33509eefb59b3b1ccaaf290f5b8a3"
+        "d9dea284a830c2aa024a2cb6e3ca0c6f8fa03211"))
+      ("git://github.com/plt/racket/?path=pkgs/racket-benchmarks#release"
+       .
+       ("e6ffbf2501f33509eefb59b3b1ccaaf290f5b8a3"
+        "d9dea284a830c2aa024a2cb6e3ca0c6f8fa03211"))
+      ("git://github.com/plt/racket/?path=pkgs/racket-doc#release"
+       .
+       ("e6ffbf2501f33509eefb59b3b1ccaaf290f5b8a3"
+        "d9dea284a830c2aa024a2cb6e3ca0c6f8fa03211"))
+      ("git://github.com/plt/racket/?path=pkgs/base#release"
+       .
+       ("e6ffbf2501f33509eefb59b3b1ccaaf290f5b8a3"
+        "d9dea284a830c2aa024a2cb6e3ca0c6f8fa03211"))
+      ("git://github.com/plt/racket/?path=pkgs/racket-test-core#release"
+       .
+       ("e6ffbf2501f33509eefb59b3b1ccaaf290f5b8a3"
+        "d9dea284a830c2aa024a2cb6e3ca0c6f8fa03211"))
+      ("git://github.com/plt/racket/?path=pkgs/racket-lib#release"
+       .
+       ("e6ffbf2501f33509eefb59b3b1ccaaf290f5b8a3"
+        "d9dea284a830c2aa024a2cb6e3ca0c6f8fa03211"))
+      ("git://github.com/plt/racket/?path=pkgs/racket-test-extra#release"
+       .
+       ("e6ffbf2501f33509eefb59b3b1ccaaf290f5b8a3"
+        "d9dea284a830c2aa024a2cb6e3ca0c6f8fa03211")))
+;; ============================================================
+;; Appended 1426596318 : Tuesday, March 17th, 2015 8:45:18am
+#hash()

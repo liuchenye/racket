@@ -1,0 +1,9 @@
+
+#hash(
+(author . "ntoronto@racket-lang.org")
+(authors . ("ntoronto@racket-lang.org"))
+(checksum . "4842f4ce480775d8b94e649d573d372d08f4a195")
+(dependencies . ("base" "draw-lib" "pict-lib" "db-lib" "srfi-lite-lib" "typed-racket-lib" "typed-racket-more" "compatibility-lib" "math-lib" "unstable-latent-contract-lib"))
+(description . "Plot non-GUI interface")
+(name . "plot-lib")
+(source . "git://github.com/racket/plot/?path=plot-lib#release"))

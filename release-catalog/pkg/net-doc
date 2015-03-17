@@ -1,0 +1,9 @@
+
+#hash(
+(author . "mflatt@racket-lang.org")
+(authors . ("mflatt@racket-lang.org"))
+(checksum . "488fda33e412015a8df22a87e545fcd90a2ae758")
+(dependencies . ("base" "compatibility-lib" "net-lib" "racket-doc" "scribble-lib" "unstable-contract-lib" "unstable-doc" "web-server-doc" "web-server-lib"))
+(description . "documentation part of \"net\"")
+(name . "net-doc")
+(source . "git://github.com/racket/net/?path=net-doc#release"))

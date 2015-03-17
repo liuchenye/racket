@@ -1,0 +1,9 @@
+
+#hash(
+(author . "ryanc@racket-lang.org")
+(authors . ("ryanc@racket-lang.org"))
+(checksum . "5f5e4df74b37c16735a401c340451f651e5cd092")
+(dependencies . ("base" "rackunit-lib"))
+(description . "implementation (no documentation) part of \"data\"")
+(name . "data-lib")
+(source . "git://github.com/racket/data/?path=data-lib#release"))

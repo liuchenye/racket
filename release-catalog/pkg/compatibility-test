@@ -1,0 +1,9 @@
+
+#hash(
+(author . "mflatt@racket-lang.org")
+(authors . ("mflatt@racket-lang.org"))
+(checksum . "6943457ea168f969da8dd937755b6192a4133b42")
+(dependencies . ("base" "racket-test"))
+(description . "tests for \"compatibility-lib\"")
+(name . "compatibility-test")
+(source . "git://github.com/racket/compatibility/?path=compatibility-test#release"))
