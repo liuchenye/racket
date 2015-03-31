@@ -2181,7 +2181,7 @@
 #hash(
 (author . "jay@racket-lang.org")
 (authors . ("jay@racket-lang.org"))
-(checksum . "6c895963591fa2a2e9548a98f0c2bcb44f53d2ad")
+(checksum . "8e00382025a21e3f34a36bba1c906dd72264dfc8")
 (dependencies . ("web-server-lib" "web-server-doc"))
 (description . "An HTTP server")
 (name . "web-server")
@@ -2190,7 +2190,7 @@
 #hash(
 (author . "jay@racket-lang.org")
 (authors . ("jay@racket-lang.org"))
-(checksum . "6c895963591fa2a2e9548a98f0c2bcb44f53d2ad")
+(checksum . "8e00382025a21e3f34a36bba1c906dd72264dfc8")
 (dependencies . ("base" "net-doc" "rackunit-doc" "compatibility-doc" "db-doc" "scribble-doc" "unstable-doc" "compatibility-lib" "db-lib" "net-lib" "rackunit-lib" "sandbox-lib" "scribble-lib" "unstable-contract-lib" "web-server-lib" "racket-doc"))
 (description . "documentation part of \"web-server\"")
 (name . "web-server-doc")
@@ -2199,7 +2199,7 @@
 #hash(
 (author . "jay@racket-lang.org")
 (authors . ("jay@racket-lang.org"))
-(checksum . "6c895963591fa2a2e9548a98f0c2bcb44f53d2ad")
+(checksum . "8e00382025a21e3f34a36bba1c906dd72264dfc8")
 (dependencies . ("srfi-lite-lib" "base" "net-lib" "compatibility-lib" "scribble-text-lib" "unstable-list-lib" "unstable-contract-lib" "parser-tools-lib" "rackunit-lib"))
 (description . "implementation (no documentation) part of \"web-server\"")
 (name . "web-server-lib")
@@ -2208,7 +2208,7 @@
 #hash(
 (author . "jay@racket-lang.org")
 (authors . ("jay@racket-lang.org"))
-(checksum . "6c895963591fa2a2e9548a98f0c2bcb44f53d2ad")
+(checksum . "8e00382025a21e3f34a36bba1c906dd72264dfc8")
 (dependencies . ("base" "compatibility-lib" "eli-tester" "htdp-lib" "rackunit-lib" "web-server-lib"))
 (description . "tests for \"web-server\"")
 (name . "web-server-test")
